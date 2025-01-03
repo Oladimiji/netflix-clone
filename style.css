@@ -260,6 +260,13 @@ input[type="radio"]{
     margin-bottom: 10px;
 }
 
+.dez{
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
 /* Media-queries for small screen*/
 @media only screen and (max-width: 600px){
     .logo{
